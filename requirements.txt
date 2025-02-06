@@ -1,0 +1,10 @@
+accelerate==0.26.1
+diffusers==0.25.1
+numpy==1.24.0
+onnxruntime==1.17.0
+opencv_python==4.7.0.72
+pandas==1.5.3
+Pillow==9.4.0
+torch==1.13.1
+tqdm==4.65.0
+transformers==4.37.1
