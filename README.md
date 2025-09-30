@@ -36,15 +36,18 @@ Please cite the paper:
 Paper: https://arxiv.org/abs/2408.11071v2
 ```
 @inproceedings{dang-etal-2025-diffzoo,
-    title = "{D}iff{ZOO}: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization",
-    author = "Dang, Pucheng  and
-      Hu, Xing  and
-      Li, Dong  and
-      Zhang, Rui  and
-      Guo, Qi  and
-      Xu, Kaidi",
-    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
-    year = "2025",
-    pages = "17--31",
+  author       = {Pucheng Dang and
+                  Xing Hu and
+                  Dong Li and
+                  Rui Zhang and
+                  Qi Guo and
+                  Kaidi Xu},
+  title        = {DiffZOO: {A} Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image
+                  Generative Model via Zeroth Order Optimization},
+  booktitle    = {{NAACL} (Findings)},
+  pages        = {17--31},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2025}
 }
 ```
+
