@@ -32,8 +32,7 @@ python run_diffzoo.py --attack diffzoo
 Results will be saved in the `results` folder.
 
 ## BibTeX
-Please cite the paper:
-Paper: https://arxiv.org/abs/2408.11071v2
+Please cite the paper: https://arxiv.org/abs/2408.11071v2
 ```
 @inproceedings{dang-etal-2025-diffzoo,
   author       = {Pucheng Dang and
@@ -50,4 +49,5 @@ Paper: https://arxiv.org/abs/2408.11071v2
   year         = {2025}
 }
 ```
+
 
